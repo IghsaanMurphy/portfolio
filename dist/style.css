@@ -607,7 +607,7 @@ footer a {
 
   /* SECTION PROJECTS */
   section .projects {
-    width: 1000px;
+    width: 800px;
     height: 90%;
   }
 
@@ -615,13 +615,13 @@ footer a {
   .adventures,
   .form-validation,
   .recipe-ideas {
-    width: 400px;
-    height: 300px;
+    width: 320px;
+    height: 220px;
   }
 
   section .projects img {
-    width: 320px;
-    height: 210px;
+    width: 300px;
+    height: 160px;
   }
 
   /* CARD */
