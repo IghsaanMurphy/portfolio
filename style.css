@@ -475,8 +475,8 @@ section .projects {
 .adventures,
 .form-validation,
 .recipe-ideas {
-  width: 600px;
-  height: 440px;
+  width: 500px;
+  height: 340px;
   /* width: 400px;
   height: 320px; */
   background-color: var(--cultured);
@@ -493,8 +493,8 @@ section .projects a {
 }
 
 section .projects img {
-  width: 560px;
-  height: 360px;
+  width: 460px;
+  height: 260px;
 }
 section .projects h3 {
   margin: 0;
